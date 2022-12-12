@@ -1,0 +1,60 @@
+.carasol-bg {
+    background-color: #FEEAE9;
+}
+
+.cat-bg {
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+
+.cat-bgs {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+
+.cat-bgss {
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+
+.bg-subscription-box {
+    background: #FFF2F1;
+}
+
+.subscription-text {
+    color: #1F1F1F;
+}
+
+.subscription-p {
+    color: #707070;
+}
+
+.h1-text {
+    color: #1F1F1F;
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.p-text {
+    color: #4E4E4E;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.h-price {
+    color: #FF136F;
+    font-size: 41px;
+    font-weight: 500;
+}
+
+.btn-color {
+    padding: 8px 20px;
+    border-radius: 6px;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: white;
+    border: none;
+    margin-top: 5px;
+}
+
+.h-title {
+    color: #1F1F1F;
+    font-size: 36px;
+    font-weight: 600;
+}
